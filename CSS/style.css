@@ -1,0 +1,19 @@
+body{
+    background: 
+  url("hotel.png"),
+  linear-gradient(to right, blue, purple);
+background-size: cover;
+background-position: center;
+}
+div footer p{
+  background-color: blue;
+}
+.all{
+  background-color: brown;
+}
+#new{
+  background-color: cadetblue;
+}
+p{
+  background-color: darkgreen;
+}
